@@ -2,7 +2,7 @@
 
 ## Description
 
-RedditClone is a .NET project that replicates key features of the popular social media platform Reddit. It allows users to create, share, and discuss content through text posts and comments.
+Discuss-It is a .NET project that replicates key features of the popular social media platform Reddit. It allows users to create, share, and discuss content through text posts and comments.
 
 ## Table of Contents
 
@@ -32,16 +32,17 @@ Before you begin, ensure you have the following prerequisites installed:
    dotnet run
   ```
 ### Usage
-  1 Open your web browser and navigate to http://localhost:5000.
-  2 Sign up for a new account or log in if you already have one.
-  3 Explore existing posts, create new posts, and participate in discussions by adding comments.
-  4 Upvote or downvote posts based on your preferences.
+* Open your web browser and navigate to http://localhost:5000.
+* Sign up for a new account or log in if you already have one.
+* Explore existing posts, create new posts, and participate in discussions by adding comments.
+* Upvote or downvote posts based on your preferences.
+  
 ### Features:
-  1 User Authentication: Users can create accounts, log in, and log out.
-  2 Create, Update, and Delete Posts: Users can create, update, and delete text-based posts and share them with the community.
-  3 Commenting System: Users can add comments to posts and engage in discussions.
-  4 Voting System: Users can upvote or downvote posts, affecting their visibility.
-  5 Sorting and Filtering: Sort and filter posts based on various criteria.   
+  * User Authentication: Users can create accounts, log in, and log out.
+  * Create, Update, and Delete Posts: Users can create, update, and delete text-based posts and share them with the community.
+  * Commenting System: Users can add comments to posts and engage in discussions.
+  * Voting System: Users can upvote or downvote posts, affecting their visibility.
+  * Sorting and Filtering: Sort and filter posts based on various criteria.   
 
 ### ScreenShots
 <img width="1431" alt="Screenshot 2024-02-01 at 9 21 57 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/fa143566-71b6-492a-b5f8-d1e213f25a10">
