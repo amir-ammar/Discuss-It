@@ -1,7 +1,5 @@
 # Discuss-It
 
-# RedditClone - A .NET Project
-
 ## Description
 
 RedditClone is a .NET project that replicates key features of the popular social media platform Reddit. It allows users to create, share, and discuss content through text posts and comments.
@@ -28,7 +26,7 @@ Before you begin, ensure you have the following prerequisites installed:
 ### Installation
 
    ```bash
-   git clone [https://github.com/yourusername/reddit-clone.git](https://github.com/amir-ammar/Discuss-It.git)
+   git clone https://github.com/amir-ammar/Discuss-It.git
    cd Discuss-It
    dotnet build
    dotnet run
