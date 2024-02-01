@@ -46,14 +46,15 @@ Before you begin, ensure you have the following prerequisites installed:
   5 Sorting and Filtering: Sort and filter posts based on various criteria.   
 
 ### ScreenShots
-<img width="1440" alt="Screenshot 2024-02-01 at 9 22 38 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/cb529d6d-9029-498d-8fe6-a236ce28e911">
-<img width="1440" alt="Screenshot 2024-02-01 at 9 22 27 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/2ec834bd-18b5-4b9a-8d2e-abfb820bc6e6">
-<img width="1421" alt="Screenshot 2024-02-01 at 9 22 16 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/fd5be41f-fcc5-49fb-b947-dbd3d17e3f21">
-<img width="1431" alt="Screenshot 2024-02-01 at 9 21 57 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/486dd57f-2461-4f39-b54e-1864db50639f">
+<img width="1431" alt="Screenshot 2024-02-01 at 9 21 57 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/fa143566-71b6-492a-b5f8-d1e213f25a10">
+<img width="1421" alt="Screenshot 2024-02-01 at 9 22 16 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/4cba2214-3cff-4239-b6f0-cb9434ffb950">
+<img width="1440" alt="Screenshot 2024-02-01 at 9 22 27 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/07cd05ad-ee42-4acd-b426-c9e4fba9f431">
+<img width="1440" alt="Screenshot 2024-02-01 at 9 22 49 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/e78588e4-8be2-4d9b-99be-4e7b44ad2cda">
+<img width="1440" alt="Screenshot 2024-02-01 at 9 23 01 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/7ffc3821-40f6-44c2-bee7-ebace23c4c5c">
+<img width="1440" alt="Screenshot 2024-02-01 at 9 23 11 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/d291934a-49ba-4398-ba00-19f91f8154fa">
+<img width="1440" alt="Screenshot 2024-02-01 at 9 22 38 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/2be550c2-bd3f-4b53-a585-7fe46fccdbc1">
 
-<img width="1440" alt="Screenshot 2024-02-01 at 9 23 11 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/4a60c877-16f2-42bf-b874-d43e8d03469f">
-<img width="1440" alt="Screenshot 2024-02-01 at 9 23 01 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/c54ab928-d189-4fa7-9a55-db3e70c437bd">
-<img width="1440" alt="Screenshot 2024-02-01 at 9 22 49 pm" src="https://github.com/amir-ammar/Discuss-It/assets/75969308/ee463d28-e59d-4f28-8b52-0014e7eb3987">
+
 
 ### License
 
